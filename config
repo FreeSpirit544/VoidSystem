@@ -224,7 +224,7 @@ bindsym $mod+shift+o exec slimlock
 
 #WALLPAPER
 
-exec_always feh --bg-scale /home/julian/Wallpapers/Wallpaper.jpg
+exec_always feh --bg-scale /home/julian/Wallpapers/Light.jpg
 
 
 
