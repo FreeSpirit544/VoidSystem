@@ -11,7 +11,9 @@ cd ..
 rm -rf st
 git clone https://github.com/FreeSpirit544/dmenu
 cd dmenu
+cd dmenu
 make clean install
+cd ..
 cd ..
 rm -rf dmenu
 echo now run second.sh without root privileges
